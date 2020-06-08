@@ -6,7 +6,7 @@
 ### Instruction for local execution:
 1. Install Docker engine (https://docs.docker.com/get-docker/)
 2. Clone this repository  
-   `git clone https://github.com/hungyiwu/dna_corrcoef_dashboard.git`
+   `git clone https://github.com/hungyiwu/tissue_integrity_dashboard.git`
 3. Build Docker image (here the image name `dnacorrcoef` and version number `0.1` are arbitrary)  
    `docker build -t dnacorrcoef:0.1 .`
 4. Run Docker image  
